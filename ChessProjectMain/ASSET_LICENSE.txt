@@ -1,0 +1,1 @@
+Chess piece PNG artwork generated from FreeSerif (GNU FreeFont). FreeSerif is licensed under GPLv3 or later with the GNU Font Embedding Exception. Source: https://www.gnu.org/software/freefont/ . Rendered PNG files included as project assets; no font file is redistributed. All interface code authored for this project.
